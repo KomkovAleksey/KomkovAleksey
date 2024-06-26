@@ -33,4 +33,4 @@ Header
 [![email](https://img.shields.io/static/v1?style=for-the-badge&message=email&color=red&logo=maildotru&logoColor=FFFFFF&label=)](mailto:ale45883412@yandex.ru)
 
 ## Статистика:
-[![KomkovAleksey GitHub stats](https://github-readme-stats.vercel.app/api?username=KomkovAleksey)](https://github.com/anuraghazra/github-readme-stats)
+[![KomkovAleksey GitHub stats](https://github-readme-stats.vercel.app/api?username=KomkovAleksey&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
