@@ -31,3 +31,6 @@ Header
 ## Соцсети:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AleksKomkov)
 [![email](https://img.shields.io/static/v1?style=for-the-badge&message=email&color=red&logo=maildotru&logoColor=FFFFFF&label=)](mailto:ale45883412@yandex.ru)
+
+## Статистика
+[![KomkovAleksey GitHub stats](https://github-readme-stats.vercel.app/api?username=KomkovAleksey)](https://github.com/anuraghazra/github-readme-stats)
