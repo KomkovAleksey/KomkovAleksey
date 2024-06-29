@@ -1,4 +1,4 @@
-[![Header](https://github.com/KomkovAleksey/KomkovAleksey/blob/main/assets/header.jpg)]
+![Header](https://github.com/KomkovAleksey/KomkovAleksey/blob/main/assets/header.jpg)
 
 # Обо мне:
 
