@@ -7,7 +7,7 @@
 
 ## Языки програмирования:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
 ![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=SQL&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML-%230db7ed.svg?style=for-the-badge&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%230db7ed.svg?style=for-the-badge&logo=CSS&logoColor=white) 
